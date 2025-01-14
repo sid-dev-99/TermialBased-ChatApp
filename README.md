@@ -19,3 +19,5 @@ This project is a terminal-based chat application built for Linux, utilizing **s
 - after running,clear build using, **make clean**
 
 
+
+![Screenshot from 2025-01-14 19-06-16](https://github.com/user-attachments/assets/6ba2cf44-0eb6-4b8c-867a-0bc3bf17032c)
