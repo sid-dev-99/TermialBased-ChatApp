@@ -13,9 +13,9 @@ This project is a terminal-based chat application built for Linux, utilizing **s
 
 ## To run this repo 
 
-- git clone <repo>
+- git clone <git@github.com:sid-dev-99/TermialBased-ChatApp.git>
 - In root dir, run **make**
 - let's go !
-- after running clear build using, **make clean**
+- after running,clear build using, **make clean**
 
 
